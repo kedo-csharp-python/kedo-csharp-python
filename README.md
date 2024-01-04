@@ -4,7 +4,7 @@ Welcome to my coder corner! My name is Nikita, and at 17 years old, I'm diving i
 
 ## About Me
 
-- 🌐 Seeking to expand my knowledge and skills in C++ and development.
+- 🌐 Seeking to expand my knowledge and skills in C# and Python development.
 - 🚀 Documenting my programming journey, showcasing progress, and conquering challenges.
 - 🌱 Working to grow and share experiences within the development community.
 
